@@ -1,0 +1,1 @@
+#include "../src/smoke_compile.cpp"
